@@ -30,7 +30,9 @@ File that tests a user choice of inputs from the user then demonstrates the diff
 
 There are two text input files submitted:
 <h3>train.txt</h3>
+This is the sentence the was provided.
 <h3>train2.txt</h3>
+This is a random sentence from the programming challenge page.
 
 <h2>Running my Solution:</h3>
 To run this all that is required is Python 3 (default). <br/>
@@ -39,7 +41,18 @@ To test one file this is expected output with what you type in <b>bold</b>: <br/
 Please enter the name of the file you want to use to train: <b>train.txt</b> <br/>
 Please enter a word: <b>th</b> <br/>
 Here are some suggestions <br/>
-thing (2), that (2), think (1), third (1), this (1), thoroughly. (1), the (1)
+thing (2), that (2), think (1), third (1), this (1), thoroughly. (1), the (1) <br/><br/>
 
+To test two files this is expected output with what you type in <b>bold</b>: <br/>
+<b>python testTwo.py</b><br/>
+How many files are being input: <b> 2 </b> <br/>
+Please enter the name of the file you want to use to train: <b>train.txt</b> <br/>
+Please enter a word: <b>th</b> <br/>
+Here are some suggestions <br/>
+thing (2), that (2), think (1), third (1), this (1), thoroughly. (1), the (1) <br/>
+Please enter the name of the file you want to use to train: <b>train2.txt</b> <br/>
+Please enter a word: <b>th</b> <br/>
+Here are some suggestions <br/>
+the (5), thing (2), that (2), this (1), think (1), thoroughly. (1), third (1), they (1)
 
 
