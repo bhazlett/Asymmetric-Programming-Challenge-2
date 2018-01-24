@@ -6,21 +6,21 @@ My solution is implemented in Python 3 (specifically 3.3.2)
 There are three files of code submitted:
 
 <h3>AutocompleteProvider.py</h3>
-Contains the implementation of the AutocompleteProvider class which has the following functions
+Contains the implementation of the AutocompleteProvider class which has the following functions<br/>
 
-quicksort()<\n>
-train()<\n>
-putInDict()
-getWords()
-dump()
+quicksort()<br/>
+train()<br/>
+putInDict()<br/>
+getWords()<br/>
+dump()<br/>
 
 <h3>Candidate.py</h3>
-Contains the implementation of the Candidate class which has the following functions
+Contains the implementation of the Candidate class which has the following functions<br/>
 
-getConfidence()
-getWord()
-increaseConfidenceByOne()
-stringify()
+getConfidence()<br/>
+getWord()<br/>
+increaseConfidenceByOne()<br/>
+stringify()<br/>
 
 <h3>testOne.py</h3>
 File that tests the classes implemented in the other two files. Expects input from the user to get the file to input and the fragment to input.
