@@ -1,0 +1,3 @@
+Confidence is the likelihood relevance of an individual word relateive to the other words being return by the autocomplte provider
+If two words are equally likely, they whould have the same confidence. 
+If one is more likely, it should have a higher confidence.
