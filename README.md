@@ -28,6 +28,16 @@ File that tests the classes implemented in the other two files. Expects input fr
 <h3>testTwo.py</h3>
 File that tests a user choice of inputs from the user then demonstrates the difference between in the suggested words.
 
+<h2>
+
 <h2>Running my Solution:</h3>
-To run this all that is required is Python 3 (default).
-To test it 
+To run this all that is required is Python 3 (default). <br/>
+To test one file this is expected output with what you type in <b>bold</b>: <br/>
+<b>python testOne.py</b>
+Please enter the name of the fhile you want to use to train: <b>train.txt</b>
+Please enter a word: <b>th</b>
+Here are some suggestions
+thing (2), that (2), think (1), third (1), this (1), thoroughly. (1), the (1)
+
+
+
