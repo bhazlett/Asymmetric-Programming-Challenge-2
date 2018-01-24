@@ -78,6 +78,13 @@ class AutocompleteProvider():
     #    if it is adds one to the count. If not initializes
     #    that dictionary entry to a new candidate.
     def putInDict(self, word):
+        # Remove some punctuation
+        punct = [".", ",", ":", ";", ")", "(", "?", "!"]
+        if word[len(word) - 1] in punct:
+            word = word[0:len(word)-1]
+        if word[0] in punct:
+            word = word[1:len(word)]
+
         # Checks if the word is already in the dict
         # if it is increase count by 1 if not
         # add a new Candidate object
