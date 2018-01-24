@@ -1,5 +1,4 @@
 <h1>Asymmetric Programming Challenge: Mobile Device Keyboard</h1>
-Ben Hazlett
 
 <h2>Overview:</h2>
 My solution is implemented in Python 3 (specifically 3.3.2)
@@ -9,8 +8,8 @@ There are three files of code submitted:
 <h3>AutocompleteProvider.py</h3>
 Contains the implementation of the AutocompleteProvider class which has the following functions
 
-quicksort()
-train()
+quicksort()<\n>
+train()<\n>
 putInDict()
 getWords()
 dump()
