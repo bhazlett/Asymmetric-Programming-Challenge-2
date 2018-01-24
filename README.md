@@ -33,11 +33,11 @@ File that tests a user choice of inputs from the user then demonstrates the diff
 <h2>Running my Solution:</h3>
 To run this all that is required is Python 3 (default). <br/>
 To test one file this is expected output with what you type in <b>bold</b>: <br/>
-<b>python testOne.py</b><br/>
-Please enter the name of the fhile you want to use to train: <b>train.txt</b> <br/>
+<pr><b>python testOne.py</b><br/>
+Please enter the name of the file you want to use to train: <b>train.txt</b> <br/>
 Please enter a word: <b>th</b> <br/>
 Here are some suggestions <br/>
-thing (2), that (2), think (1), third (1), this (1), thoroughly. (1), the (1)
+thing (2), that (2), think (1), third (1), this (1), thoroughly. (1), the (1)</pr>
 
 
 
