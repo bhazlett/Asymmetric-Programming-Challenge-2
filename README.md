@@ -1,5 +1,4 @@
-<h1>Asymmetric Programming Challenge 2</h1>
-<h2>Mobile Device Keyboard</h2>
+<h1>Asymmetric Programming Challenge: Mobile Device Keyboard</h1>
 Ben Hazlett
 
 <h2>Overview:</h2>
